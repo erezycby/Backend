@@ -1,0 +1,27 @@
+{
+  "name": "mss-backend",
+  "version": "1.0.0",
+  "description": "Mss backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erezycby/mss-backend.git"
+  },
+  "author": "Erez Yacoby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erezycby/mss-backend/issues"
+  },
+  "homepage": "https://github.com/erezycby/mss-backend#readme",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "express": "^4.15.3",
+    "hbs": "^4.0.1",
+    "loadash": "0.0.1",
+    "request": "^2.81.0",
+    "yargs": "^8.0.1"
+  }
+}
